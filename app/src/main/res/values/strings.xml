@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">okstudent</string>
+
+    <string-array name="Universidades">
+        <item>Universidade do Porto</item>
+        <item>Universidade de Lisboa</item>
+        <item>Universidade de Coimbra</item>
+    </string-array>
+
+</resources>
